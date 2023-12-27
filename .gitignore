@@ -1,0 +1,22 @@
+node_modules
+abi
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+**/build
+.env.local
+.env
+yarn-error.log
+
+.DS_Store
+
+**/bin
+**/java
+config/
+migrations/*
